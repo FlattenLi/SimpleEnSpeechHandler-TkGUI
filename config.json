@@ -1,0 +1,7 @@
+{
+    "model": "model/whisper-base.en",
+    "tmp_audio": "./temp/",
+    "forward": 3.00,
+    "backward": 3.00,
+    "update": 512
+}
