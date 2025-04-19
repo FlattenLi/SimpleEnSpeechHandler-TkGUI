@@ -1,7 +1,8 @@
 {
     "model": "model/whisper-base.en",
-    "tmp_audio": "./temp/",
-    "forward": 3.00,
-    "backward": 3.00,
-    "update": 512
+    "load_all_time": 0,
+    "temp_path": "temp",
+    "forward": 3.0,
+    "backward": 3.0,
+    "update": 1000
 }
